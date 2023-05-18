@@ -19,6 +19,3 @@ It is important to examine the data first to see if any patterns can be recogniz
 
 6.	we test out a number of candidate machine learning models before selecting which model performs best. Once we select the best model, we’ll evaluate that on a test set, to see how the model will perform on data that it's never seen or touched before. 
 
-
-
-![image-2.png](attachment:image-2.png)
